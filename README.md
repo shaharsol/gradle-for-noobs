@@ -1,3 +1,4 @@
+[![esos_dev](https://s3.amazonaws.com/dev.pstrs.xcut.me/4.99.svg)](http://localhost:3000/subscribe/shaharsol/gradle-for-noobs)
 [![esos_dev](https://img.shields.io/badge/Enterprise%20Support%20Available-%2410%2Fm-green.svg)](http://localhost:3000/subscribe/shaharsol/gradle-for-noobs)
 # gradle-for-noobs
 a gradle workshop for noobs
